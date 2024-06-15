@@ -7,7 +7,7 @@ import Footer from "./component/Footer/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Pastor Olanrewaju Olatunji | Official Birthday",
+  title: "Pastor Olanrewaju Olatunji | Official Website",
   description: "Schedule of Activites for Olanrewaju Olatunji @60 Birthday",
 };
 
